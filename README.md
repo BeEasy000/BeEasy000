@@ -1,8 +1,8 @@
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/hero-en-dark-mobile.svg">
-  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/hero-en-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-en-dark.svg">
-  <img src="./assets/hero-en-light.svg" width="100%" alt="Francisco da Cruz — Junior Full-Stack Developer. Córdoba, Argentina. React, Next.js and TypeScript.">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/hero-en-dark-mobile-fc.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/hero-en-light-mobile-fc.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-en-dark-fc.svg">
+  <img src="./assets/hero-en-light-fc.svg" width="100%" alt="Francisco da Cruz — Junior Full-Stack Developer. Córdoba, Argentina. React, Next.js and TypeScript.">
 </picture>
 
 <p align="right"><a href="./README.es.md">Leer en español</a></p>
