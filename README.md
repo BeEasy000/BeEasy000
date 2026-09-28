@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/hero-en-dark-mobile-fc.svg">
   <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/hero-en-light-mobile-fc.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-en-dark-fc.svg">
-  <img src="./assets/hero-en-light-fc.svg" width="100%" alt="Francisco da Cruz — Junior Full-Stack Developer. Córdoba, Argentina. React, Next.js and TypeScript.">
+  <img src="./assets/hero-en-light-fc.svg" width="100%" alt="Francisco da Cruz —  Full-Stack Developer. Córdoba, Argentina. React, Next.js and TypeScript.">
 </picture>
 
 <p align="right"><a href="./README.es.md">Leer en español</a></p>
@@ -15,11 +15,11 @@
 
 ### From the interface to the data behind it.
 
-I'm **Francisco**, a junior full-stack developer and Information Systems Engineering student at **Universidad Tecnológica Nacional, Facultad Regional Córdoba**.
+I'm **Francisco**, a full-stack developer and Information Systems Engineering student at **Universidad Tecnológica Nacional, Facultad Regional Córdoba**.
 
 I build web applications with **React, Next.js and TypeScript**, working with **Supabase and PostgreSQL** for authentication, storage and data. My personal projects range from interactive 360° tours to commerce applications and Python tools for log analysis.
 
-**Currently:** building DCRZ Studio, continuing my degree and looking for a junior development role.
+**Currently:** building DCRZ Studio, continuing my degree and looking for a development role.
 
 ## Selected work
 
