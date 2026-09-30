@@ -28,8 +28,10 @@ I build web applications with **React, Next.js and TypeScript**, working with **
     <td width="50%" valign="top">
       <a href="https://dcrzstudio.com">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/project-dcrz-dark.svg">
-          <img src="./assets/project-dcrz-light.svg" width="100%" alt="DCRZ Studio — interactive 360-degree property tours">
+          <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/project-dcrz-dark-still.png">
+          <source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-dcrz-light-still.png">
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/project-dcrz-dark.gif">
+          <img src="./assets/project-dcrz-light.gif" width="100%" alt="DCRZ Studio — animated wireframe camera, house and Toyota GT86 with 360-degree rotation">
         </picture>
       </a>
       <h3>DCRZ Studio</h3>

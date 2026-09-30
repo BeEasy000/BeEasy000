@@ -28,8 +28,10 @@ Desarrollo aplicaciones web con **React, Next.js y TypeScript**, y utilizo **Sup
     <td width="50%" valign="top">
       <a href="https://dcrzstudio.com">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/project-dcrz-dark.svg">
-          <img src="./assets/project-dcrz-light.svg" width="100%" alt="DCRZ Studio — recorridos inmobiliarios interactivos en 360 grados">
+          <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/project-dcrz-dark-still.png">
+          <source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-dcrz-light-still.png">
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/project-dcrz-dark.gif">
+          <img src="./assets/project-dcrz-light.gif" width="100%" alt="DCRZ Studio — cámara, casa y Toyota GT86 de líneas animadas con giro de 360 grados">
         </picture>
       </a>
       <h3>DCRZ Studio</h3>
